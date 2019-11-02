@@ -12,4 +12,6 @@ class DemoCust
       {
           return CName;
       }
+    public void show DemoCust(){
+    }
 }
