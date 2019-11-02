@@ -20,9 +20,10 @@ class DemoCust
       }
     public void show DemoCust(){
     }
-    
-     public String toString(){
-     }
+     
+        @Override
+	public String toString(){
+         }
 
 
 
