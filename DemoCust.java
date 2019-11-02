@@ -10,5 +10,6 @@ class DemoCust
         public int setCustID(){
          return CustID;
         }
-    
+    public void getCust(){
+    }
 }
