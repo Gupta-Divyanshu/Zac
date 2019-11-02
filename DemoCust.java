@@ -7,6 +7,12 @@ class DemoCust
     public int getCustID()
     {
          return CustID;
+        }
+    
+        public int setCustID(){
+         return CustID;
+        }
+    public void getCust(){
      }
      public String getCustName()
       {
