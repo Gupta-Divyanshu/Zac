@@ -1,9 +1,11 @@
 class DemoCust
 {
-    int CustID,
-    String CName
-        
-        public int getCustID(){
+    int CustID;
+    
+    String CName;
+     
+    public int getCustID()
+    {
          return CustID;
         }
     
@@ -11,5 +13,11 @@ class DemoCust
          return CustID;
         }
     public void getCust(){
+     }
+     public String getCustName()
+      {
+          return CName;
+      }
+    public void show DemoCust(){
     }
 }
